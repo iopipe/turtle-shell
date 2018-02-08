@@ -1,6 +1,8 @@
 IOpipe
 ---------------------------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iopipe/turtle-shell.svg)](https://greenkeeper.io/)
+
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/iopipe/iopipe)
 
 Apache 2.0 licensed.
